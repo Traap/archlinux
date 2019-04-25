@@ -14,8 +14,23 @@
 
 ### Check internet connection
 1. ping -3 google.com
+1. ip link
 
-### Make file systems
+### Update pacman databases
+1. pacman -Syy
+2. pacman -S reflector
+
+### Shorten mirrorlist 
+3. reflector -c "United States" -f 12 -l 10 -n 12 --save /etc/pacman.d/mirrorlist
+
+### Make disk partitions 
+Todo: Say a few words about partition types.
+
+#### Single partition
+1. cfdisk /dev/sda
+1. mkfs.ext4 /dev/sda1
+
+#### Multiple Partitions.
 1. /dev/sda1 efi 60MB
 1. /dev/sda2 swap 8GB
 1. /dev/sda3 / 500GB
@@ -25,7 +40,6 @@
 1. mkfs.ext4 /dev/sda4
 1. mkswap /dev/sda2
 
-
 ### Make mount points
 1. mount /dev/sda3 /mnt
 1. mkdir /mnt/boot
@@ -34,21 +48,37 @@
 1. swapon /dev/sda2
 
 ### Install Packages
-1. vi /etc/pacman.d/mirrorlist
 1. packstrap /mnt base base-devel
-1. genfstab -U /mnt > mnt/etc/fstab
+1. genfstab -U -p /mnt > /mnt/etc/fstab
 
 ### Set local time and password
 1. arch-chroot /mnt
-1. passwd
-1. ln -sf /usr/share/zoneinfo/America/Chicago /etc/localtime
-1. hwclock --systohc
+1. vi /etc/locale.gen
 1. locale-gen
-1. /etc/locale.conf 
-   LANG=en_US.UTF-8
-1. /etc/hostname
-   Gucci 
+1. ln -sf /usr/share/zoneinfo/America/Chicago /etc/localtime
+1. hwclock --systohc --utc
+1. echo LANG=en_US.UTF-8 > /etc/locale.conf 
+
+### Name your computer
+1. echo Gucci > /etc/hostname
 2. /etc/hosts
-   127.0.0.1 localhost
-   ::1       localhost
-   127.0.1.1 Gucci.localdomain Gucci
+   127.0.0.1 localhost.localdomain localhost
+   ::1       localhost.localdomain localhost
+   127.0.1.1 localhost.localdomaini Gucci
+
+### Enable dhcpcd
+1. systemctl enable dhcpcd
+
+### Set root password
+1. passwd
+
+### Install and configure Grub
+#### BIOS Boot
+1. pacman -S grub
+1. grub-install /dev/sda
+1. grub-mkconfig -o /boot/grub/grub.cfg
+
+### Reboot
+1. exit
+1. umount -R /mnt
+1. rebootc
