@@ -105,13 +105,14 @@ Note:  Don't use Grub
 1. pacman -S --noconfirm vim
 1. bootctl install
 1. vim /boot/loader/entries/arch.conf
-2. title ArchLinux
-2. linux /vimlinuz-linux
-2. initrd /initramfs-linux.img
-2. options root=PARTUUID=YOUR-UUID-GOES-HERE rw
-3. r !blkid
-4. YOUR-UUIDis the Linux file system
-3. :wq
+```
+title ArchLinux
+linux /vimlinuz-linux
+initrd /initramfs-linux.img
+options root=PARTUUID=YOUR-UUID-GOES-HERE rw
+```
+1. :r !blkid to read the YOUR-UUID.  => It is the Linux file system
+3. :wq => write quit
 1. reboot
 
 ### Set local time and password
