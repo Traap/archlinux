@@ -56,7 +56,7 @@ Note: Use either Option 1 or 2.
 
 ##### UEFI Option 2
 ###### Partitions 
-[Arch Linux UEFI 2](https://www.youtube.com/wathc?v=DfC5GhgdtbWY)
+[Arch Linux UEFI 2](https://www.youtube.com/watch?v=DfC5hgdtbWY)
 Note:  Don't use Grub
 1. pacman -Sy vim font
 1. setfont
@@ -95,6 +95,9 @@ Note:  Don't use Grub
 
 ### Post packstrap
 #### BIOS or UEFI Option 1
+1. pacman -S grub
+1. grub-install /dev/sdX
+1. grub-mkconfig -o /boot/grub/grub.cfg
 1. genfstab -U -p /mnt > /mnt/etc/fstab
 
 #### Ueif Option 2
@@ -120,11 +123,13 @@ Note:  Don't use Grub
 1. echo LANG=en_US.UTF-8 > /etc/locale.conf 
 
 ### Name your computer
-1. echo Gucci > /etc/hostname
+1. echo Fubar > /etc/hostname
 2. vi /etc/hosts
+```
    127.0.0.1 localhost.localdomain localhost
    ::1       localhost.localdomain localhost
-   127.0.1.1 localhost.localdomain Gucci
+   127.0.1.1 localhost.localdomain Fubar
+```
 
 ### Enable DHCP 
 1. systemctl enable dhcpcd
@@ -136,17 +141,11 @@ Note:  Don't use Grub
 ### Set root password
 1. passwd
 
-### Install and configure Grub
-#### BIOS Boot
-1. pacman -S grub
-1. grub-install /dev/sdX
-1. grub-mkconfig -o /boot/grub/grub.cfg
-
 ### Reboot
 1. exit
 1. umount -R /mnt
 1. reboot
 
 ### Add user 
-1. useradd -m -g users -G wheel -s /bin/bash gary
-1. passwd gary  
+1. useradd -m -g users -G wheel -s /bin/bash traap
+1. passwd traap
