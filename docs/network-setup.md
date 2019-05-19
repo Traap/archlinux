@@ -2,7 +2,6 @@
 ***
 
 #### Network setup
-
 * systemctl enable dhcpcd
-* pacman -S --noconfirm networkmanager
+* pacman --noconfirm -S networkmanager
 * systemctl enable NetworkManager 
