@@ -1,5 +1,5 @@
-[Back to Table of Contents](../README.md)
 ***
+[Back to Table of Contents](../README.md)
 
 #### Useful Linux Commands
 Commands I used throughout my installation process.  I have listed the commands
