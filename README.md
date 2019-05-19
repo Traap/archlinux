@@ -25,7 +25,7 @@ my hardware.
 * [reboot](docs/first-reboot.md)
 ***
 
-**Your new Arch Linux Sytem **
+**Your new Arch Linux Sytem**
 * [Set local time](docs/setlocal-time.md)
 * [Name Your computer](docs/name-your-computer.md)
 * [Network setup](docs/network-setup.md)
