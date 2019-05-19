@@ -19,7 +19,7 @@
 
 ---
 __Notes:__ 
-* I used [LARBS](personalize/larbs) to initially setup
+* I used [LARBS](../personalize/larbs.md) to initially setup
   [i3](https://wiki.archlinux.org/index.php/I3) -- a dynamically tiling window
   manager.  This process installed X11 components so my Touchpad only works
   after _StartX_ is run.
