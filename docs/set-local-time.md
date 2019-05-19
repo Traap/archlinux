@@ -11,5 +11,5 @@
 
 ---
 __Note:__ 
-* Besides `arch-chroot /mnt`, the steps abofe can always be used to change your
+* Besides `arch-chroot /mnt`, the steps abobe can always be used to change your
   local time zone.
