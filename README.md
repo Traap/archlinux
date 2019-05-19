@@ -12,6 +12,11 @@ my hardware.
 * [Check your Internet connection](check-your-internet-connection.md)
 * [Useful Linux commands](useful-linux-commands.md)
 * [Update pacman database](pacman-update.md)
+* Boot Modes
+  * [Arch Linux Bios](boot-arch-linux-from-bios.md)
+  * [Arch Linux UEFI Option 1](boot-arch-linux-from-option-1.md)
+  * [Arch Linux UEFI Option 2](boot-arch-linux-from-option-2.md)
+    * **Note:** This one works.
 * [Set local time](setlocal-time.md)
 ***
 
