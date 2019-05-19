@@ -20,6 +20,7 @@ alphabetically so they are easily found.
 * lsblk - list blcok devices
 * ls - list directory contents
 * man - an interface to the on-line reference manuals
+* mkfs - build a Linux filesystem
 * mv - move (rename) files
 * nano - Nano's ANOther editor, inspired by Pico
 * pacman - package manager utility
