@@ -1,13 +1,13 @@
+These are the notes I maintain while I am setting up a [MacBook Pro (17-inch,
+Early 2011) system](https://support.apple.com/kb/SP621).  The
+[sysem](https://support.apple.com/kb/SP621) original disk drive was replaced
+with a [Crucial 1T SSD](www.curcial.com).  This instructs apply to directly to
+my hardware.
 
-### Make a bootable USB
-1. Google it and follow instructions.
-
-### Boot from USB
-1. Insert USB with Arch Linux ISO
-1. Connect physical Ethernet cable
-1. Press power button
-1. Hold Options key when gray screen appears
-1. Select Arch Linux ISO
+**Table of Contents**
+[Bootable Arch Linux USB](bootable-usb.md)
+[Boot from Arch Linux USB](boot-from-usb.md)
+***
 
 ### Block size and Disk Sizes 
 1. lsblk
