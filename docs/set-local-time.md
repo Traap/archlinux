@@ -2,12 +2,14 @@
 ***
 
 #### Set Local Time
-**Note:** Besides arch-chroot, the followins steps can always be used
-to change your local time zone.
-
 * arch-chroot /mnt
 * vi /etc/locale.gen
 * locale-gen
 * ln -sf /usr/share/zoneinfo/America/Chicago/etc/localtime
 * hwclock --systohc --utc
 * echo LANG=en_US.UTF-8 > /etc/locale.conf 
+
+---
+__Note:__ 
+* Besides `arch-chroot /mnt`, the steps abofe can always be used to change your
+  local time zone.
