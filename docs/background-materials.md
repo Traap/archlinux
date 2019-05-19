@@ -62,7 +62,8 @@ I repeated all instructions and used video listed above to resovle my boot issue
 * [2016 Arch Linux EFI Installation Guide Part 1 - Installing Arch and Making it Boot (27.40 mins)](https://youtube.com/watch?v=OWBB8vtiz8)
 * [2016 Arch Linux EFI Installation Guide Part 2 - Installing Arch and Making it Boot (27.40 mins)](https://youtube.com/watch?v=OWBB8vtiz8)
 * [2016 Arch Linux NetworkManager / WiFi Setup Guide (9.69 mins)](https://youtube.com/watch?v=OWBB8vtiz8)
-* [Installing Arch Linux in less than 10 minutes (8.58 mins)](ttps://youtube.com/watch?v=GKdPSGb9f5s&t=4s)
+* [Installing Arch Linux in less than 10 minutes (8.58 mins)](https://youtube.com/watch?v=GKdPSGb9f5s&t=4s)
 
+---
 #### Todo
 - [ ] Confirm URLS are correct. (Copy & Paste from Firefox to Vim is not there yet.)
