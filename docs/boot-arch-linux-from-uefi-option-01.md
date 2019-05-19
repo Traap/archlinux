@@ -2,7 +2,7 @@
 ***
 
 #### Boot Arch Linux from UEFI Option 1
-Watch [Arch Linux UEFI 2](https://www.youtube.com/watch?v=dOXYZ8hkdmc).  Below
+Watch [Arch Linux UEFI 1](https://www.youtube.com/watch?v=dOXYZ8hkdmc).  Below
 are commands I used when attempting this options.
 
 ####  Partitions 
