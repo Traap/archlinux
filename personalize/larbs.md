@@ -13,9 +13,8 @@
 * About 20min from now you will have a fully functional Arch Linux machine.
 
 ---
-__cj:__ 
-Cj is my lovely wife of nearly 36 years.  I use
-her name because I love her.
+__Cj:__ is my lovely wife of nearly 36 years.  I use her name because
+I love her.
 
 Gary Allan Howard
 
