@@ -3,7 +3,7 @@
 
 #### Useful Linux Commands
 Commands I used throughout my installation process.  I have listed the commands
-alphabetically so they are easily find them.
+alphabetically so they are easily found.
 
 * bash - GNU Bourne-Again SHell 
 * cat - concatenate files and print on the standard output
