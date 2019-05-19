@@ -2,8 +2,8 @@
 ***
 
 #### Boot from USB
-__Note:__ You are formally advised **not to** follow these instructions at your own
-peril. I am attempting to install [Arch Linux](https://www.archlinux.org) on
+__Note:__ You are formally advised to follow these instructions **at your own
+peril**. I am attempting to install [Arch Linux](https://www.archlinux.org) on
 a [MacBook Pro (17-inch, Early 2011) system](https://support.apple.com/kb/SP621).
 I am **not** using virtualizaiton.  All instructions are being applied directly
 to my hardware.
