@@ -6,6 +6,7 @@ my hardware.
 
 ***
 **Table of Contents**
+* [Background Materials](background-materials.md)
 * [Bootable Arch Linux USB](bootable-usb.md)
 * [Boot from Arch Linux USB](boot-from-usb.md)
 * [Check your Internet connection](check-your-internet-connection.md)
