@@ -33,12 +33,13 @@ my hardware.
 
 ---
 **Personalizing Arch Linux**
-* [Finish Traap setup](docs/todo.md)
-* [Clock syncronication](docs/todo.md)
-* [Install LARBS](docs/todo.md)
-* [Wifi](docs/todo.md)
-* [Touchpad](docs/todo.md)
-* [Keyboard Backlight](docs/todo.md)
+* [Ruby with Rbenv](personalize/rbenv.md)
+* [Finish Traap setup](personalize/traap.md)
+* [Clock synchronization](personalize/clock-synchronization.md)
+* [Luke's Auto-Rice Bootstraping Scripts (LARBS)](personalize/larbs.md)
+* [Wifi](personalize/wifi.md)
+* [Touchpad](personalize/touchpad.md)
+* [Keyboard Backlight](personalize/keyboard-backlight.md)
 
 ---
 __Todo__ 
