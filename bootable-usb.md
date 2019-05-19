@@ -1,3 +1,6 @@
+[Table of Contents](README.md)
+***
+
 ** Make a bootable USB**
 1. Google it and follow instructions.
 

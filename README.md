@@ -4,18 +4,13 @@ Early 2011) system](https://support.apple.com/kb/SP621).  The
 with a [Crucial 1T SSD](www.curcial.com).  This instructs apply to directly to
 my hardware.
 
-**Table of Contents**
-[Bootable Arch Linux USB](bootable-usb.md)
-[Boot from Arch Linux USB](boot-from-usb.md)
 ***
-
-### Block size and Disk Sizes 
-1. lsblk
-1. cfdisk
-
-### Check internet connection
-1. ping -3 google.com
-1. ip link
+**Table of Contents**
+* [Bootable Arch Linux USB](bootable-usb.md)
+* [Boot from Arch Linux USB](boot-from-usb.md)
+* [Check your Internet connection](check-your-internet-connection.md)
+* [Useful Linux commands](useful-linux-commands.md)
+***
 
 ### Update pacman databases
 1. pacman -Syy

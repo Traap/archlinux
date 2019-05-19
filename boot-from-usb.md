@@ -1,3 +1,6 @@
+[Table of Contents](README.md)
+***
+
 ** Boot from USB**
 **NOTE** You are formally advised to follow these instructions at your own
 peril. I am attempting to install [Arch Linux](https://www.archlinux.org) on
