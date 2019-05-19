@@ -21,12 +21,11 @@ my hardware.
 * [Post packstrap Arch Linux](docs/packstrap-arch-linux.md)
   * [Bios or UEFI Option 1](docs/post-packstrap-01.md)
   * [UEFI Option 2](docs/post-packstrap-02.md)
-* [Set local time](docs/set-local-time.md)
 * [reboot](docs/first-reboot.md)
 
 ---
 **Your new Arch Linux Sytem**
-* [Set local time](docs/setlocal-time.md)
+* [Set local time](docs/set-local-time.md)
 * [Name Your computer](docs/name-your-computer.md)
 * [Network setup](docs/network-setup.md)
 * [Set root password](docs/set-root-password.md)
