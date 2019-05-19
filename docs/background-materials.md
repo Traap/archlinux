@@ -16,7 +16,7 @@ and hobby.
 * [Wiki](https://wiki.archlinux.org)
 * [Forums](https://bbs.archlinux.org)
 * [Installation Guilde](https://wiki.archlinux.org/index.php/Installation_guide)
-* [Post-Installation General recommendations](https://wiki.archlinux.org/index.php/General_recommenations)
+* [Post-Installation General recommendations](https://wiki.archlinux.org/index.php/General_recommendations)
 
 ---
 #### GitHub
