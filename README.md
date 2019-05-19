@@ -18,7 +18,7 @@ my hardware.
   * [UEFI Option 2](docs/boot-arch-linux-from-uefi-option-02.md)
     * __Note:__ This one works.
 * [packstrap Arch Linux](docs/pachstrap-arch-linux.md)
-* [Post packstrap Arch Linux](docs/pachstrap-arch-linux.md)
+* [Post packstrap Arch Linux](docs/packstrap-arch-linux.md)
   * [Bios or UEFI Option 1](docs/post-packstrap-01.md)
   * [UEFI Option 2](docs/post-packstrap-02.md)
 * [Set local time](docs/setlocal-time.md)
