@@ -37,3 +37,7 @@ my hardware.
 * [Step 01](docs/step-02.md)
 * [Step 03](docs/step-03.md)
 * [Step 04](docs/step-04.md)
+
+---
+__Todo__ 
+- [ ] Complete personalizing arch linux section.

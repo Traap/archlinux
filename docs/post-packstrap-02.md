@@ -6,16 +6,15 @@
 * pacman -S --noconfirm vim
 * bootctl install
 * vim /boot/loader/entries/arch.conf
-
-```
-title ArchLinux
-linux /vimlinuz-linux
-initrd /initramfs-linux.img
-options root=PARTUUID=YOUR-UUID-GOES-HERE rw
-```
-
-* :r !blkid to read the YOUR-UUID.  => It is the Linux file system
-* :wq => write quit
+  * Make the edits below
+    ```
+    title ArchLinux
+    linux /vimlinuz-linux
+    initrd /initramfs-linux.img
+    options root=PARTUUID=YOUR-UUID-GOES-HERE rw
+    ```
+  * :r !blkid to read the YOUR-UUID.  => It is the Linux file system
+  * :wq => write quit
 
 ---
 __Note:__ 
