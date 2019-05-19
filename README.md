@@ -64,19 +64,19 @@ Note: Use either Option 1 or 2.
 1. cat /proc/partitions
 
 1. gdisk /sdX
-  2. First partition
-    3. o = clear
-    3. y => proceed
-    3. Command (? or help) n => new
-    3. first sector : enter
-    3. second sector : +500mb
-    3. Hex code or GUID: EF00
+   1. First partition
+      1. o = clear
+      1. y => proceed
+      1. Command (? or help) n => new
+      1. first sector : enter
+      1. second sector : +500mb
+      1. Hex code or GUID: EF00
 
-  2. Second partition
-    3. Command (? or help) n => new
-    3. first sector : enter
-    3. second sector: enter
-    3. Hex code or GUID: enter
+   1. Second partition
+      1. Command (? or help) n => new
+      1. first sector : enter
+      1. second sector: enter
+      1. Hex code or GUID: enter
 
 2. Command (? or help): write => write
 
@@ -112,7 +112,7 @@ initrd /initramfs-linux.img
 options root=PARTUUID=YOUR-UUID-GOES-HERE rw
 ```
 1. :r !blkid to read the YOUR-UUID.  => It is the Linux file system
-3. :wq => write quit
+1. :wq => write quit
 1. reboot
 
 ### Set local time and password
