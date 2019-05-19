@@ -8,7 +8,7 @@
 * reflector -c "United States" -f 12 -l 10 -n 12 --save /etc/pacman.d/mirrorlist
 
 ---
-**Notes:**
+__Notes:__
 * I use `--noconfim` to avoid answering questions.  I don't care if things
   fail.  I will start over.
 

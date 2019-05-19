@@ -2,20 +2,17 @@
 ***
 
 #### Boot Arch Linux from UEFI Option 2
+Watch [Arch Linux UEFI 2](https://www.youtube.com/watch?v=DfC5hgdtbWY).  Below
+are commands I used when I _successfully_ booted into Arch Linux for the first
+time on my hardware.
 
-##### pacman steps 
-[Arch Linux UEFI 2](https://www.youtube.com/watch?v=DfC5hgdtbWY)
-__Note:__  Don't use GRUB and confirm you have UEFI.
-
+#### Confirm your system uses UEFI.
 * pacman -Sy vim font
 * setfont
 * ls /sys/firmware/efi  => any output means you have UEFI.
 * cat /proc/partitions
 
-##### Partitions 
-__Note:__ `cfdisk` can replace `gdisk`. As I recall, `cdisk` did not have
-capabilities it now when this video was done.
-
+#### Partitions 
 * gdisk /sdX
   * First partition
     * o = clear
@@ -33,12 +30,20 @@ capabilities it now when this video was done.
 
   * Command (? or help): write => write
 
-##### File systems 
+#### File systems 
 * gdisk -l /dev/sdX
 * mkfs.vfat /dev/sdX1
 * mkfs.ext4 /dev/sdX2
 
-##### Make mount points
+#### Make mount points
 * mount /dev/sdX2 /mnt
 * mkdir /mnt/boot
 * mount /dev/sdX1 /mnt/boot
+
+---
+__Notes:__
+* Don't use GRUB when you confirm you have a UEFI sytem.
+* pacman was used to install vim and font to make text on
+  YouTube video easer to read.
+* `cfdisk` can replace `gdisk`. As I recall, `cdisk` did not have
+capabilities it now when this video was done.
