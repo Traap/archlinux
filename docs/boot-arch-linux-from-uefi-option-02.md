@@ -45,5 +45,5 @@ __Notes:__
 * Don't use GRUB when you confirm you have a UEFI sytem.
 * pacman was used to install vim and font to make text on
   YouTube video easer to read.
-* `cfdisk` can replace `gdisk`. As I recall, `cdisk` did not have
-capabilities it now when this video was done.
+* `cfdisk` can replace `gdisk`. As I recall, `cdisk` did not have capabilities
+  it now when this video was done.
