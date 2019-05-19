@@ -57,26 +57,26 @@ Note: Use either Option 1 or 2.
 ##### UEFI Option 2
 ###### Partitions 
 [Arch Linux UEFI 2](https://www.youtube.com/watch?v=DfC5hgdtbWY)
-Note:  Don't use Grub
+*Note:*  Don't use Grub
 1. pacman -Sy vim font
 1. setfont
 1. ls /sys/firmware/efi  => any output means you have UEFI.
 1. cat /proc/partitions
 
 1. gdisk /sdX
-2. First partition
-3. o = clear
-3. y => proceed
-3. Command (? or help) n => new
-3. first sector : enter
-3. second sector : +500mb
-3. Hex code or GUID: EF00
+  2. First partition
+    3. o = clear
+    3. y => proceed
+    3. Command (? or help) n => new
+    3. first sector : enter
+    3. second sector : +500mb
+    3. Hex code or GUID: EF00
 
-2. Second partition
-3. Command (? or help) n => new
-3. first sector : enter
-3. second sector: enter
-3. Hex code or GUID: enter
+  2. Second partition
+    3. Command (? or help) n => new
+    3. first sector : enter
+    3. second sector: enter
+    3. Hex code or GUID: enter
 
 2. Command (? or help): write => write
 
