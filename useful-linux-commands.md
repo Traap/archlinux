@@ -1,7 +1,7 @@
-[Table of Contents](README.md)
+[Back to Table of Contents](README.md)
 ***
 
-**Useful Linux Commands**
+####Useful Linux Commands
 I used the commands below throughout my installation process.  I have listed the
 commands alphabetically so I can easily find them.
 

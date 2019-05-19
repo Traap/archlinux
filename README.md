@@ -10,14 +10,8 @@ my hardware.
 * [Boot from Arch Linux USB](boot-from-usb.md)
 * [Check your Internet connection](check-your-internet-connection.md)
 * [Useful Linux commands](useful-linux-commands.md)
+* [Update pacman database](pacman-update.md)
 ***
-
-### Update pacman databases
-1. pacman -Syy
-2. pacman -S reflector
-
-### Shorten mirrorlist 
-3. reflector -c "United States" -f 12 -l 10 -n 12 --save /etc/pacman.d/mirrorlist
 
 #### BIOS Boot Mode 
 [Arch Linux Bios](https://www.youtube.com/watch?v=GKdPSGb9f5s)
