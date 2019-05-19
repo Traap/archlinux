@@ -6,7 +6,7 @@ This page is here to miminimize broken URLs as I write new pages.
 
 ---
 __Note:__ 
-* [Abandon hope all ye who enter here](https://www.phrases.org.uk/meanings/abondon-hope-all-ye-who-enter-here.html)
+* [Abandon hope all ye who enter here](https://www.phrases.org.uk/meanings/abandon-hope-all-ye-who-enter-here.html)
   is the supposed inscription at the entrance to Hell.
 
 * [1 Cor 15:1-4](https://www.blueletterbible.org/kjv/1cor/15/1/s_1077001) is 
