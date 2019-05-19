@@ -1,7 +1,6 @@
 [Back to Table of Contents](../README.md)
 ***
 
-#### Luke's Auto-Rice Bootstraping Scripts (LARBS) 
 [Luke's Auto-Rice Bootstraping Scripts (LARBS)](https://github.com/LukeSmithxyz/LARBS)
 
 * Use your wired ethernet connection 

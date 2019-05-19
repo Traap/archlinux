@@ -20,3 +20,4 @@
 __Note:__ 
 * A lot of videos instruct you to use **nano**.  I only use **Vim**.
 * *bootctrl* solved all my problems.
+
