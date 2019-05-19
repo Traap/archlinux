@@ -6,6 +6,7 @@ Commands I used throughout my installation process.  I have listed the commands
 alphabetically so they are easily found.
 
 * bash - GNU Bourne-Again SHell 
+* bootctl - Control the firmware and boot manager settings
 * cat - concatenate files and print on the standard output
 * cd - change the working directory
 * cfdisk - display or manuplate a disk partition table

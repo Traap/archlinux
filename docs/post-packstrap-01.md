@@ -7,4 +7,3 @@
 * grub-install /dev/sd__x__
 * grub-mkconfig  /boot/grub/gurb.cfg
 * genfstab -U -p /mnt /mnt/etc/fstab
-* reboot
