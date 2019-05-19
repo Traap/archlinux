@@ -11,7 +11,7 @@
 ```
 
 ---
-__Sweatheart__ is the nickname I have my beautiful daughter, Daryn Amber
+__Sweatheart__ is the nickname I gave my beautiful daughter, Daryn Amber
 Howard, the first time I saw her.  Sadly, Daryn passed away 2017.04.11
 @ 10:02pm CST; she was only 25.  I use _Sweatheart_ whenever I try
 something new in her honor.
