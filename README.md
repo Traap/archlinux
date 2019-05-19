@@ -33,10 +33,12 @@ my hardware.
 
 ---
 **Personalizing Arch Linux**
-* [Step 01](docs/step-01.md)
-* [Step 01](docs/step-02.md)
-* [Step 03](docs/step-03.md)
-* [Step 04](docs/step-04.md)
+* [Finish Traap setup](docs/todo.md)
+* [Clock syncronication](docs/todo.md)
+* [Install LARBS](docs/todo.md)
+* [Wifi](docs/todo.md)
+* [Touchpad](docs/todo.md)
+* [Keyboard Backlight](docs/todo.md)
 
 ---
 __Todo__ 
