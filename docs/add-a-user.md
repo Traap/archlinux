@@ -2,7 +2,7 @@
 ***
 
 #### Add a user
-* useradd -m -g users -G wheel -s /bin/bash traap
+* sudo useradd -m -g users -G wheel -s /bin/bash traap
 * passwd traap
 
 ---
