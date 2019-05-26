@@ -9,7 +9,7 @@
   * Make the edits below
     ```
     title ArchLinux
-    linux /vilinuz-linux
+    linux /vmlinuz-linux
     initrd /initramfs-linux.img
     options root=PARTUUID=YOUR-UUID-GOES-HERE rw
     ```
