@@ -5,7 +5,7 @@
 You must use a wired connection.  [Booting form Arch Linux
 USB](boot-from-usb.com) does not enable your WiFi connection.
 
-* ping -c 3 github.com
+* ping -c 3 archlinux.org
 * ip link
 
 
