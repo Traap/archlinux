@@ -2,14 +2,14 @@
 ***
 
 #### Post packstrap UEFI Option __2__
-* arch-chroot /mnt
-* pacman -S --noconfirm vim
-* bootctl install
+* `arch-chroot /mnt`
+* `pacman --noconfirm -S vim`
+* `bootctl install`
 * vim /boot/loader/entries/arch.conf
   * Make the edits below
     ```
     title ArchLinux
-    linux /vimlinuz-linux
+    linux /vilinuz-linux
     initrd /initramfs-linux.img
     options root=PARTUUID=YOUR-UUID-GOES-HERE rw
     ```
