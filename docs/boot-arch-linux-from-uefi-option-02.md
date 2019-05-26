@@ -17,7 +17,7 @@ time on my hardware.
 * `cat /proc/partitions` to see your partitions
 
 #### Partitions 
-* gdisk /sdX
+* gdisk /dev/sdX
   * First partition
     * o = clear
     * y => proceed
