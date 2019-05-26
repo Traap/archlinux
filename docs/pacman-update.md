@@ -1,11 +1,11 @@
 [Back to Table of Contents](../README.md)
 ***
 #### Update pacman databases
-* pacman --noconfirm -Syu
+* `pacman --noconfirm -Syu`
 
 #### Shorten mirrorlist
-* pacman -S reflector
-* reflector -c "United States" -f 12 -l 10 -n 12 --save /etc/pacman.d/mirrorlist
+* `pacman --noconfirm -S reflector`
+* `reflector -c "United States" -f 12 -l 10 -n 12 --save /etc/pacman.d/mirrorlist`
 
 ---
 __Notes:__
