@@ -6,10 +6,14 @@ Watch [Arch Linux UEFI 2](https://www.youtube.com/watch?v=DfC5hgdtbWY).  Below
 are commands I used when I _successfully_ booted into Arch Linux for the first
 time on my hardware.
 
-#### Confirm your system uses UEFI.
+#### Make your fonts bigger and update Vim.
 * `pacman --noconfirm -Sy vim terminus-font`
-* `setfont terminus-font`
+* `setfont terminux-font`
+
+#### Confirm your system uses UEFI.
 * `ls /sys/firmware/efi`  => any output means you have UEFI.
+* `dmesg | grep sd` to display kernel ring buffer information about sd devices.
+* `lsblk` to list block devices.
 * `cat /proc/partitions` to see your partitions
 
 #### Partitions 
@@ -46,4 +50,4 @@ __Notes:__
 * pacman was used to install vim and font to make text on
   YouTube video easer to read.
 * `cfdisk` can replace `gdisk`. As I recall, `cdisk` did not have capabilities
-  it now when this video was done.
+  it now when this video was done.`
