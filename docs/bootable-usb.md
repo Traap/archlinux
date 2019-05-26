@@ -2,7 +2,7 @@
 [Back to Table of Contents](../README.md)
 
 #### Make a bootable USB
-* Download [balenaEtcher](https://www.balena.io/etcher/
+* Download [balenaEtcher](https://www.balena.io/etcher)
 * Launch blanaEtcher dmg and follow instructions.
 * Download an [Arch Linux ISO](https://www.archlinux.org/download)
 * Insert a USB stick.
