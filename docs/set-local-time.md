@@ -2,12 +2,12 @@
 ***
 
 #### Set Local Time
-* arch-chroot /mnt
-* vi /etc/locale.gen
-* locale-gen
-* ln -sf /usr/share/zoneinfo/America/Chicago/etc/localtime
-* hwclock --systohc --utc
-* echo LANG=en_US.UTF-8 > /etc/locale.conf 
+* `arch-chroot /mnt`
+* `vi /etc/locale.gen`
+* `locale-gen`
+* `ln -sf /usr/share/zoneinfo/America/Chicago /etc/localtime`
+* `hwclock --systohc --utc`
+* `echo LANG=en_US.UTF-8 > /etc/locale.conf` 
 
 ---
 __Note:__ 
