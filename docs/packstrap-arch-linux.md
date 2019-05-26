@@ -1,8 +1,11 @@
 [Back to Table of Contents](../README.md)
 ***
 
-#### Packstrap Arch Linux
-* packstrap /mnt base base-devel 
+#### Pacstrap Arch Linux
+* `pacstrap /mnt base base-devel` 
+
+#### Update System Clock
+* `timedatectl set-ntp true`
 
 ---
 __Note:__ 
