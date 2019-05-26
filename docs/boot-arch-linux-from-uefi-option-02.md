@@ -7,10 +7,10 @@ are commands I used when I _successfully_ booted into Arch Linux for the first
 time on my hardware.
 
 #### Confirm your system uses UEFI.
-* pacman -Sy vim font
-* setfont
-* ls /sys/firmware/efi  => any output means you have UEFI.
-* cat /proc/partitions
+* `pacman --noconfirm -Sy vim terminus-font`
+* `setfont terminus-font`
+* `ls /sys/firmware/efi`  => any output means you have UEFI.
+* `cat /proc/partitions` to see your partitions
 
 #### Partitions 
 * gdisk /sdX
