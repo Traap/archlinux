@@ -22,17 +22,20 @@ time on my hardware.
     * o = clear
     * y => proceed
     * Command (? or help) n => new
+    * partition number: enter
     * first sector : enter
     * second sector : +500mb
     * Hex code or GUID: EF00
 
   * Second partition
     * Command (? or help) n => new
+    * partition number: enter
     * first sector : enter
     * second sector: enter
     * Hex code or GUID: enter
 
   * Command (? or help): write => write
+  * Proceed: Y
 
 #### File systems 
 * gdisk -l /dev/sdX
