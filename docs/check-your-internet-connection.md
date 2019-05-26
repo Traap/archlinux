@@ -10,5 +10,6 @@ USB](boot-from-usb.com) does not enable your WiFi connection.
 
 
 ---
-#### Todo
-- [ ] Test this again with WiFi and update notes if necessary.
+__Notes:__
+* Arch Linux USB stick did not enable WiFi when I booted.
+* I have a wired connection so this does not trouble me.
