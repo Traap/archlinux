@@ -49,7 +49,7 @@ time on my hardware.
 
 
 #### FSTAB
-* `fstab -U > /mnt/etc/fstab`
+* `genfstab -U > /mnt/etc/fstab`
 
 ---
 __Notes:__
