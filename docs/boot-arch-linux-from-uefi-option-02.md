@@ -47,6 +47,10 @@ time on my hardware.
 * mkdir /mnt/boot
 * mount /dev/sdX1 /mnt/boot
 
+
+#### FSTAB
+* `fstab -U > /mnt/etc/fstab`
+
 ---
 __Notes:__
 * Don't use GRUB when you confirm you have a UEFI sytem.
