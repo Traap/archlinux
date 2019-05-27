@@ -2,11 +2,12 @@
 ***
 
 ####
-[Installing Arch Linux from a Bootable USB](00-install-arch-linux.md)
 * [Background Materials](docs/background-materials.md)
+* [Check your Internet connection](docs/check-your-internet-connection.md)
+
+[Installing Arch Linux from a Bootable USB](00-install-arch-linux.md)
 * [Bootable Arch Linux USB](docs/bootable-usb.md)
 * [Boot from Arch Linux USB](docs/boot-from-usb.md)
-* [Check your Internet connection](docs/check-your-internet-connection.md)
 * [Useful Linux commands](docs/useful-linux-commands.md)
 * [Update pacman database](docs/pacman-update.md)
 * Boot Modes
