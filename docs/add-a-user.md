@@ -2,8 +2,8 @@
 ***
 
 #### Add a user
-* sudo useradd -m -g users -G wheel -s /bin/bash traap
-* sudo passwd traap
+* `sudo useradd -m -g users -G wheel -s /bin/bash traap`
+* `sudo passwd traap`
 
 ---
 __Traap__ is my primary  [World of Warcraft](https://www.worldofwaraft.com)
