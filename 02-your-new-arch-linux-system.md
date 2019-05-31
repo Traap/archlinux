@@ -1,7 +1,7 @@
 [Back to Table of Contents](README.md)
 ***
 
-#### Your new Arch Linux Sytem
+#### Your new Arch Linux System
 * [Set local time](docs/set-local-time.md)
 * [Name Your computer](docs/name-your-computer.md)
 * [Network setup](docs/network-setup.md)
