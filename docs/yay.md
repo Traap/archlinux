@@ -7,6 +7,10 @@
 * `cd yay`
 * `makepkg -si`
 
+#### Install linux-macbook
+* `sudo yay -S linux-macbook`
+* `sudo yay -S kblight'
+
 ---
 __Note:__ 
 * [Yay - Yet Another Relaiable AUR Helper Written in Go](https://www.ostechnix.com/yay-found-yet-another-reliable-aur-helper/)
