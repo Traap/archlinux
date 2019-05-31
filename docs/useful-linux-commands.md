@@ -40,3 +40,4 @@ alphabetically so they are easily found.
 * xdpyinfo - display information utility for X
 * xinput - utility to configure and test X input devices
 * xwallpaper - wallpaper setting utility for X 
+* yay - Yet Another Reliable AUR Helper Written in Go
