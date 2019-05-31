@@ -1,5 +1,6 @@
-[Back to Table of Contents](../README.md)
+[Back to Personalizing Arch Linux](../03-personalize-arch-linux.md)
 ***
+
 
 #### Touchpad
 * vim 30-touch.conf
