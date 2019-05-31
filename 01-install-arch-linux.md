@@ -6,7 +6,7 @@
 * [Useful Linux commands](docs/useful-linux-commands.md)
 
 #### Installation
-[Installing Arch Linux from a Bootable USB](../00-install-arch-linux.md)
+[Installing Arch Linux from a Bootable USB](../01-install-arch-linux.md)
 * [Bootable Arch Linux USB](docs/bootable-usb.md)
 * [Boot from Arch Linux USB](docs/boot-from-usb.md)
 * [Check your Internet connection](docs/check-your-internet-connection.md)
