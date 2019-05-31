@@ -1,4 +1,4 @@
-[Back to Table of Contents](../README.md)
+[Back to Your New Arch Linux System](../02-your-new-arch-linux-system.md)
 ***
 
 #### Network setup
