@@ -5,8 +5,6 @@ with a [Crucial 1T SSD](https://www.crucial.com/usa/en/storage-ssd-mx500).
 ***
 
 #### Arch Linux Installation Notes
-Notes have been categorized in the order I took them and suggest you follow them.
-
 1. [Installing Arch Linux from a Bootable USB](01-install-arch-linux.md)
 1. [Your new Arch Linux Sytem](02-your-new-arch-linux-system.md)
 1. [Personalizing Arch Linux](03-personalize-arch-linux.md)
@@ -17,5 +15,6 @@ Notes have been categorized in the order I took them and suggest you follow them
 
 ---
 __Notes__
+* Notes have been categorized in the order I took them and suggest you follow them.
 * These instruction apply to installing linux on the metal.  Do not follow
   them if you cannot recover your hardware easily.
