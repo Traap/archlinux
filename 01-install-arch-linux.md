@@ -6,7 +6,7 @@
 * [Useful Linux commands](docs/useful-linux-commands.md)
 
 #### Installing Arch Linux from a Bootable USB
-* [iMake a bootable Arch Linux USB](docs/bootable-usb.md)
+* [Make a bootable Arch Linux USB](docs/bootable-usb.md)
 * [Boot from Arch Linux USB](docs/boot-from-usb.md)
 * [Check your Internet connection](docs/check-your-internet-connection.md)
 * [Update pacman database](docs/pacman-update.md)
