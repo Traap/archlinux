@@ -7,7 +7,11 @@
 * `locale-gen`
 * `ln -sf /usr/share/zoneinfo/America/Chicago /etc/localtime`
 * `hwclock --systohc --utc`
-* `echo LANG=en_US.UTF-8 > /etc/locale.conf` 
+* `echo LANG=en_US.UTF-8 > /etc/locale.conf`
+
+#### Sync Time with Network Time
+* `sudo pacman --noconfirm -S ntp`
+* `sudo systemctl enable ntpd`
 
 ---
 __Note:__ 
