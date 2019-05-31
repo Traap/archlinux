@@ -6,5 +6,5 @@
 * [Name Your computer](docs/name-your-computer.md)
 * [Network setup](docs/network-setup.md)
 * [Set root password](docs/set-root-password.md)
-* [Create a User](docs/add-a-user.md)
+* [Add a User](docs/add-a-user.md)
 * [Yay - Yet Another Reliable AUR Helper Written in Go](docs/yay.md)
