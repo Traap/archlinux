@@ -1,4 +1,4 @@
-[Back to Table of Contents](../README.md)
+[Back to Your New Arch Linux System](../02-your-new-arch-linux-system.md)
 ***
 
 #### Add a user
@@ -6,7 +6,7 @@
 * `sudo passwd traap`
 
 ---
-__Traap__ is my primary  [World of Warcraft](https://www.worldofwaraft.com)
+__Traap__ is my primary  [World of Warcraft](https://worldofwarcraft.com/en-us/character/us/area-52/traap)
 tune.  Traap is a warrior.  He is fearless.  He never backs down.  He never
 quits. He never surrenders.  He steps into the line of fire.  He is loyal.
 He is faithful.  He is loving.  He is reverant.  He is courteous.  He is
