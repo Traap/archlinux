@@ -16,3 +16,5 @@
 __Notes:__
 * LARBS is very cool.  I'm using I3 to build upto LARBS so I understand all
   the steps.
+  
+ * I am experimenting with [linux-macbook aur](https://aur.archlinux.org/packages/?O=0&SeB=nd&K=linux-macbook&outdated=&SB=n&SO=a&PP=50&do_Search=Go).   Too earily to tell.
