@@ -19,14 +19,22 @@ and hobby.
 * [Post-Installation General recommendations](https://wiki.archlinux.org/index.php/General_recommendations)
 
 ---
-#### GitHub
-* [Linux Torvalds' Linux kernel source tree](https://github.com/trovalds/linux)
+#### Arch Linux Macbook Pro
+* [Mac](https://wiki.archlinux.org/index.php/Mac)
+* [MacBookPro11,x](https://wiki.archlinux.org/index.php/MacBookPro11,x)
+* [b43 Wireless](https://wireless.wiki.kernel.org/en/users/Drivers/b43#list_of_hardware)
+* [b43 and b43Legacy](http://linuxwireless.sipsolutions.net/en/users/Drivers/b43/)
+
+---
+#### Arch Linux Notes from GitHub
 * [Luke Smith's LARBS](https://github.com/LukeSmithxyz/LARBS)
 * [Traap's Arch Linux Notes](https://github.com/Traap/archlinux)
+* [Archlinux on Macbook Pro 11,1 (Mid 2014]((https://github.com/Kisuke-CZE/Archlinux-on-Macbook)
 
 ---
 #### Linux Kernel
-* [The Linux Kernel](https://www.kernel.org) 
+* [Linux Torvalds' Linux kernel source tree](https://github.com/trovalds/linux)
+* [The Linux Kernel](https://www.kernel.org)
 
 ---
 #### YouTube to watch First
@@ -66,4 +74,4 @@ I repeated all instructions and used video listed above to resovle my boot issue
 
 ---
 #### Todo
-- [ ] Confirm URLS are correct. (Copy & Paste from Firefox to Vim is not there yet.)
+- [x] Confirm URLS are correct. (Copy & Paste from Firefox to Vim is not there yet.)
