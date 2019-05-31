@@ -1,4 +1,4 @@
-[Back to Installing Arch Linux from Bootable USB](../01-install-arch-linux.md)
+[Back to Table of Contents](README.md)
 ***
 
 #### Background materials
