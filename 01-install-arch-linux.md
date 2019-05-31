@@ -1,10 +1,6 @@
 [Back to Table of Contents](README.md)
 ***
 
-#### Background
-* [Background Materials](docs/background-materials.md)
-* [Useful Linux commands](docs/useful-linux-commands.md)
-
 #### Installing Arch Linux from a Bootable USB
 * [Make a bootable Arch Linux USB](docs/bootable-usb.md)
 * [Boot from Arch Linux USB](docs/boot-from-usb.md)
