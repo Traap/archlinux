@@ -4,8 +4,8 @@
 #### Install Yay
 * `sudo pacman --noconfirm -S git`
 * `git clone https://aur.archlinux.git/yay.git`
-* 'cd yay`
-* makepkg -si
+* `cd yay`
+* `makepkg -si`
 
 ---
 __Note:__ 
