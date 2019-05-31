@@ -29,7 +29,7 @@ and hobby.
 #### Arch Linux Notes from GitHub
 * [Luke Smith's LARBS](https://github.com/LukeSmithxyz/LARBS)
 * [Traap's Arch Linux Notes](https://github.com/Traap/archlinux)
-* [Archlinux on Macbook Pro 11,1 (Mid 2014]((https://github.com/Kisuke-CZE/Archlinux-on-Macbook)
+* [Archlinux on Macbook Pro 11,1 (Mid 2014)](https://github.com/Kisuke-CZE/Archlinux-on-Macbook)
 
 ---
 #### Linux Kernel
