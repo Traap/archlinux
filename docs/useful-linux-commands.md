@@ -1,5 +1,5 @@
+[Back to Installing Arch Linux from Bootable USB](../01-install-arch-linux.md)
 ***
-[Back to Table of Contents](../README.md)
 
 #### Useful Linux Commands
 Commands I used throughout my installation process.  I have listed the commands
