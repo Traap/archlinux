@@ -1,8 +1,8 @@
-[Back to Table of Contents](../README.md)
+[Back to Personalizing Arch Linux](../03-personalize-arch-linux.md)
 ***
 
 #### Clock synchronization
-This page is here to miminimize broken URLs as I write new pages.
+* [set-local-time](../docs/set-local-time.md)
 
 ---
 __Note:__ 
