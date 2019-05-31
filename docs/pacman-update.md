@@ -1,5 +1,6 @@
-[Back to Table of Contents](../README.md)
+[Back to Installing Arch Linux from Bootable USB](../01-install-arch-linux.md)
 ***
+
 #### Update pacman databases
 * `pacman --noconfirm -Syu`
 
