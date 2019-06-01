@@ -6,7 +6,7 @@
 * `vi /etc/locale.gen`
 * `locale-gen`
 * `ln -sf /usr/share/zoneinfo/America/Chicago /etc/localtime`
-* `hwclock --systohc --utc`
+* `sudo hwclock --systohc --utc`
 * `echo LANG=en_US.UTF-8 > /etc/locale.conf`
 
 #### Sync Time with Network Time
