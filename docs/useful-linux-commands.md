@@ -24,6 +24,7 @@ alphabetically so they are easily found.
 * mkfs - build a Linux filesystem
 * mv - move (rename) files
 * nano - Nano's ANOther editor, inspired by Pico
+* nmtui - Text User Interface for controlling NetworkManager
 * pacman - package manager utility
 * passwd - change user password 
 * rm - remove files or directories
