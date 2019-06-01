@@ -21,8 +21,8 @@
 
 #### Create symlinks and source bashrc
 * `cd`
-* `./gitscript/symlinks`
-* `.bashrc
+* `./git/script/symlinks`
+* `source .bashrc`
 
 ---
 __Note:__ 
