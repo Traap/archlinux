@@ -5,9 +5,9 @@
 1. echo Sweatheart > /etc/hostname
 2. vi /etc/hosts
 ```
-   127.0.0.1 localhost.localdomain localhost
-   ::1       localhost.localdomain localhost
-   127.0.1.1 localhost.localdomain Sweatheart
+   127.0.0.1 localhost.localdomain  localhost
+   ::1       localhost.localdomain  localhost
+   127.0.0.1 Sweatheart.localdomain Sweatheart
 ```
 
 ---
