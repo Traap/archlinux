@@ -7,6 +7,9 @@
 #### Update System Clock
 * `timedatectl set-ntp true`
 
+#### FSTAB
+* `genfstab -U /mnt >> /mnt/etc/fstab`
+
 ---
 __Note:__ 
 * Arch Linux is running from your USB drive.  You are now using packstrap
