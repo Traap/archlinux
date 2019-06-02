@@ -8,15 +8,15 @@
 * [Update pacman database](docs/pacman-update.md)
 
 #### Boot Modes: Select one below.
-  * [BIOS](docs/boot-arch-linux-from-bios.md)
-  * [UEFI Option 1](docs/boot-arch-linux-from-uefi-option-01.md)
+  * ~~[BIOS](docs/boot-arch-linux-from-bios.md)~~
+  * ~~[UEFI Option 1](docs/boot-arch-linux-from-uefi-option-01.md)~~
   * [UEFI Option 2](docs/boot-arch-linux-from-uefi-option-02.md)
 
 #### pacstrap
 * [pacstrap Arch Linux](docs/packstrap-arch-linux.md)
 
 #### Post pacstrap Arch Linux: Select one option below.
-  * [BIOS or UEFI Option 1](docs/post-packstrap-01.md)
+  * ~~[BIOS or UEFI Option 1](docs/post-packstrap-01.md)~~
   * [UEFI Option 2](docs/post-packstrap-02.md)
 
 #### Your first reboot.
