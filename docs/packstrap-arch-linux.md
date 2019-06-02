@@ -4,9 +4,6 @@
 #### Pacstrap Arch Linux
 * `pacstrap /mnt base base-devel` 
 
-#### Update System Clock
-* `timedatectl set-ntp true`
-
 #### FSTAB
 * `genfstab -U /mnt >> /mnt/etc/fstab`
 
