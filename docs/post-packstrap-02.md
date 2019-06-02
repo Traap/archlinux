@@ -16,6 +16,9 @@
   * :r !blkid to read the YOUR-UUID.  => It is the Linux file system
   * :wq => write quit
 
+#### Update System Clock
+* `timedatectl set-ntp true`
+
 ---
 __Note:__ 
 * A lot of videos instruct you to use **nano**.  I only use **Vim**.
