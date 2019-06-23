@@ -11,6 +11,7 @@
   * ~~[BIOS](docs/boot-arch-linux-from-bios.md)~~
   * ~~[UEFI Option 1](docs/boot-arch-linux-from-uefi-option-01.md)~~
   * [UEFI Option 2](docs/boot-arch-linux-from-uefi-option-02.md)
+  * [UEFI Option 3: VirtualBox ](docs/boot-arch-linux-from-uefi-option-03.md)
 
 #### pacstrap
 * [pacstrap Arch Linux](docs/packstrap-arch-linux.md)
