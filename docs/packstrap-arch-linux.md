@@ -9,5 +9,5 @@
 
 ---
 __Note:__ 
-* Arch Linux is running from your USB drive.  You are now using packstrap
+* Arch Linux is running from your USB drive.  You are now using pacstrap
   to bootstrap Arch Linux packages onto your newly create file system.  
