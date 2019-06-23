@@ -5,6 +5,12 @@
 * `sudo useradd -m -g users -G wheel -s /bin/bash traap`
 * `sudo passwd traap`
 
+#### Enable wheel as sudoer
+* `EDITOR=nano visudo`
+* `nano`
+* Uncomment wheel line.
+* Save and exit.
+
 ---
 __Traap__ is my primary  [World of Warcraft](https://worldofwarcraft.com/en-us/character/us/area-52/traap)
 tune.  Traap is a warrior.  He is fearless.  He never backs down.  He never
