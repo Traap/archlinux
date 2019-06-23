@@ -3,7 +3,7 @@
 
 #### Install Yay
 * `sudo pacman --noconfirm -S git`
-* `git clone https://aur.archlinux.git/yay.git`
+* `git clone https://aur.archlinux.org/yay.git`
 * `cd yay`
 * `makepkg -si`
 
