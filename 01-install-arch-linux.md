@@ -25,4 +25,4 @@
 
 ---
 __Notes:__
-* I found three boot methods.  Only __UEIF Option 2__ worked for me.
+* I found three boot methods.  Only __UEIF Optson 2__ worked for me.
