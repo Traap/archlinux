@@ -8,8 +8,8 @@
 * `makepkg -si`
 
 #### Install linux-macbook
-* `sudo yay -S linux-macbook`
-* `sudo yay -S kblight`
+* ~~`sudo yay -S linux-macbook`~~
+* ~~`sudo yay -S kblight`~~
 
 ---
 __Note:__ 
