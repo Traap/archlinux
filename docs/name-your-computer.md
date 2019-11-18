@@ -7,7 +7,7 @@
 ```
    127.0.0.1 localhost.localdomain  localhost
    ::1       localhost.localdomain  localhost
-   127.0.0.1 Sweatheart.localdomain Sweetheart
+   127.0.0.1 Sweetheart.localdomain Sweetheart
 ```
 
 ---
