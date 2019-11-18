@@ -2,7 +2,7 @@
 ***
 
 #### Pacstrap Arch Linux
-* `pacstrap /mnt base base-devel` 
+* `pacstrap /mnt base base-devel linux linux-firmware` 
 
 #### FSTAB
 * `genfstab -U /mnt >> /mnt/etc/fstab`
