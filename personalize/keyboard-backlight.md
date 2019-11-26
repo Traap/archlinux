@@ -12,21 +12,22 @@
 * [macbook-lighter](https://github.com/harttle/macbook-lighter) GitHub
   repository with source code and examples.
 
-#### Installation and setup
+#### Installation and Setup
 ```bash
 yay --noconfirm -S macbook-lighter
+```
 
-##### keyboard
+##### Keyboard
 ```bash
 macbook-lighter-kbd --inc 60
 ```
 
-##### screen
+##### Screen
 ```bash
 macbook-lighter-screen --inc 60
 ```
 
-##### ambient lighting
+##### Ambient lighting
 ```bash
 systemctl start macbook-lighter
 macbook-lighter-ambient
