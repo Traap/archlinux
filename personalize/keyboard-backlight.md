@@ -1,11 +1,37 @@
 [Back to Personalizing Arch Linux](../03-personalize-arch-linux.md)
 ***
 
-#### Keyboard backlight 
-* [Arch Linux Backlight](https://wiki.archlinux.org/index.php/Backlight#Backlight_utilities)
+#### Keyboard backlight
+* [Arch Linux
+  Backlight](https://wiki.archlinux.org/index.php/Backlight#Backlight_utilities)
+  ArchLinux wiki article about Backlight.
+
 * [macbook-lighter aur](https://aur.archlinux.org/packages/macbook-lighter/)
-* [macbook-lighter](https://github.com/harttle/macbook-lighter)
+  ArchLinux user repository package.
+
+* [macbook-lighter](https://github.com/harttle/macbook-lighter) GitHub
+  repository with source code and examples.
+
+#### Installation and setup
+```bash
+yay --noconfirm -S macbook-lighter
+
+##### keyboard
+```bash
+macbook-lighter-kbd --inc 60
+```
+
+##### screen
+```bash
+macbook-lighter-screen --inc 60
+```
+
+##### ambient lighting
+```bash
+systemctl start macbook-lighter
+macbook-lighter-ambient
+```
 
 ---
-__Note:__ 
-*  Links I am currently reading.
+__Note:__
+*  AUR macbook-lighter just works.
