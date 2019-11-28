@@ -5,6 +5,7 @@
 * [Ruby with Rbenv](personalize/rbenv.md)
 * [Finish Traap setup](personalize/traap.md)
 * [Clock synchronization](personalize/clock-synchronization.md)
+* [XDG Base Directory Specification](personalize/xdg-base-directory.md) 
 * [I3](personalize/i3.md) dynamic tiling window manager
 * [Wifi](personalize/wifi.md)
 * [Touchpad](personalize/touchpad.md)
