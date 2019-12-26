@@ -28,4 +28,4 @@ sudo b43-fwcutter -w "$FIRMWARE_INSTALL_DIR" broadcom-wl-5.100.138/linux/wl_apst
 
 ---
 __Note:__
-*
+* Step 1 and 2 are here: https://github.com/Traap/scripts/tree/master/b43
